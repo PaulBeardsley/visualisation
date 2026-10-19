@@ -1,0 +1,22 @@
+ONS: population change by region.
+	https://www.ons.gov.uk/visualisations/censuspopulationchange/
+
+Chart choosers
+	https://datavizcatalogue.com/
+	https://www.data-to-viz.com/
+
+Examples of good data visualitation
+	https://informationisbeautiful.net/
+	https://www.reddit.com/r/dataisbeautiful/
+
+Tips for improving chart clarity
+	https://www.darkhorseanalytics.com/blog/data-looks-better-naked
+
+Infographics
+	https://www.leveragestl.com/social-media-infographic/
+
+Colour Blindness
+	https://www.color-blindness.com/coblis-color-blindness-simulator/
+
+Spurious Correlations
+	https://www.tylervigen.com/spurious-correlations
